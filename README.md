@@ -26,4 +26,7 @@ Data set that contains information about Rockbuster’s film inventory, customer
 ## Project Deliverables
 The project will conclude with an in-depth analysis, showcasing SQL queries, visualizations, and a well-crafted narrative that transforms complex data into practical business insights. This final report will provide a clear, detailed understanding of the findings, facilitating informed decision-making and strategic planning.
 
+## Visualisations
+Visualizations: Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/renu.balaji/viz/Rockbusterfilmsales/Story1) for interactive insights.
+
 
